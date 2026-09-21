@@ -1,6 +1,6 @@
 # Proyecto de Automatización de Pruebas y Pipeline CI/CD
 
-Este repositorio contiene la implementación práctica del proyecto de automatización de pruebas de software, control de versiones con Git, orquestación con Maven y pipeline de CI/CD con Jenkins.
+Repositorio que contiene la implementación práctica del proyecto de automatización de pruebas de software, control de versiones con Git, orquestación con Maven y pipeline de CI/CD con Jenkins.
 
 ## Estructura del Repositorio
 - `pom.xml`: Configuración de dependencias (JUnit 5, Cucumber BDD, Selenium).
