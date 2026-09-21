@@ -1,8 +1,19 @@
+# Compilación de Maven
 target/
 *.class
-*.log
+*.jar
+*.war
+
+# Archivos de entorno e IDEs
 .idea/
 *.iml
-.settings/
+.vscode/
 .classpath
 .project
+.settings/
+
+# Logs y reportes temporales
+*.log
+test-output/
+reports/
+.DS_Store
